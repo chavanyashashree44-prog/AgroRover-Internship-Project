@@ -1,37 +1,104 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# AgroRover Internship Project 🌱
 
-## Getting Started
+An agriculture-focused digital platform developed collaboratively during an internship, using modern web technologies.
 
-First, run the development server:
+## 🌐 Live Website
+
+[Visit AgroRover](https://www.agrorover.com/)
+
+## 📌 About the Project
+
+AgroRover is an agriculture-focused digital platform developed as part of an internship project. The website aims to provide a modern web experience for users in the agriculture domain.
+
+This project provided an opportunity to work collaboratively, explore modern frontend technologies, and gain practical experience in web development.
+
+## 🛠️ Tech Stack
+
+- **Next.js** – React framework
+- **React.js** – Frontend library
+- **Tailwind CSS** – Utility-first CSS framework
+- **JavaScript** – Programming language
+
+
+## 🛠️ Technologies I Worked With
+
+During this internship project, I worked with the following technologies:
+
+- **Next.js** – Framework for building the web application
+- **React.js** – Building reusable and interactive UI components
+- **JavaScript** – Implementing frontend functionality
+- **Tailwind CSS** – Styling and designing responsive user interfaces
+- **Git & GitHub** – Version control and project collaboration
+
+
+## ✨ Project Highlights
+
+- Agriculture-focused digital platform
+- Modern web development approach
+- Responsive user interface
+- Built using Next.js and React
+- Styled with Tailwind CSS
+- Collaborative internship project
+
+## 💻 Run Locally
+
+Follow these steps to run the project on your local machine.
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/chavanyashree44-prog/AgroRover-Internship-Project.git
+```
+
+### 2. Navigate to the project folder
+
+```bash
+cd AgroRover-Internship-Project
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the development server
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open your browser and visit:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+```text
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 📂 Project Structure
 
-## Learn More
+```text
+AgroRover-Internship-Project/
+├── public/
+├── src/
+├── package.json
+├── package-lock.json
+├── next.config.mjs
+├── tailwind.config.js
+├── postcss.config.js
+└── README.md
+```
 
-To learn more about Next.js, take a look at the following resources:
+*Note: The exact folder structure may vary depending on the project files.*
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 👩‍💻 Internship Project
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+This project was developed collaboratively as part of an internship, providing practical exposure to modern web development technologies and teamwork.
 
-## Deploy on Vercel
+## 🔗 Links
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **GitHub Repository:** [AgroRover Internship Project](https://github.com/chavanyashree44-prog/AgroRover-Internship-Project)
+- **Live Website:** [AgroRover](https://www.agrorover.com/)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-"# agrorover.com" 
+---
+
+Made with 🌱 and modern web technologies.
